@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm **Lana Shkantana**  
-🎓 Final Year **Computer Engineering Student**  
+🎓**Computer Engineering **  
 📊 GPA: 3.3  
 💙 Passionate about **Flutter Mobile Development**  
 🌍 English Level: Intermediate (Improving every day)  
